@@ -1,0 +1,36 @@
+html, body {
+  margin-top: 55px;
+}
+
+/*navbar style*/
+
+.navbar {
+  background:#30343B;
+}
+.nav-link, .navbar-brand {
+  color: white;
+  cursor: pointer;
+}
+.nav-link {
+  margin-right: 1em !important;
+}
+.nav-link:hover {
+  background: #434852;
+  color: white;
+}
+.navbar-brand:hover {
+  color: whitesmoke;
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+
+
+@media screen and (max-width: 833px) {
+
+}
+
+@media screen and (max-width: 520px) {
+
+}
